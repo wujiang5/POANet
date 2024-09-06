@@ -1,0 +1,15 @@
+%%
+clc,clear,close;
+
+MMload('Model_Shape.mat');
+identy = load('Model_Exp.mat');
+mu = mu_shape + mu_exp;
+
+
+load('Model_Shape.mat');
+load('Model_Exp.mat');
+folder = {'AFW', 'AFL_Flip', 'HELEN', 'HELEN_Flip', 'IBUG', 'IBUG_Flip', 'LFPW', 'FLPW_Flip'};
+pathImage = 'D:\HeadPoseEstimation\2016_3DDFA\300W_LP\';
+for i = 1:length(folder)
+    
+end
