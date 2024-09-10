@@ -27,7 +27,7 @@ ${POSE_ROOT}
             |-- 000003072.jpg
 ```
 
-'''
+```
 ${POSE_ROOT}
 |-- dataset
 `-- |-- 300w-lp
