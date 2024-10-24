@@ -1,4 +1,4 @@
-# 3D Head Pose Estimation via Normal Maps: A Generalized Solution for Depth Image, Point Cloud, and Mesh
+# POANet: 3D Head Pose Estimation via Normal Maps
 
 The complete project can be downloaded from this URL:
 
