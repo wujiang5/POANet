@@ -1,7 +1,6 @@
 # POANet
 3D Head Pose Estimation and Few-shot Learning for Head Rigid Registration
 
-Our paper is currently submitted to Advanced Intelligent Systems Journals, and under review.
 
 The complete project can be downloaded from this URL:
 
@@ -49,4 +48,15 @@ https://drive.google.com/file/d/1dimWSh-8Tk3Zjmj63ke_mK5YN7LqdTLo/view?usp=drive
 
 # Train
 
+# Citation
+
+```bibtex
+@article{wu2024_POANet,
+  title={3D Head Pose Estimation via Normal Maps: A Generalized Solution for Depth Image, Point Cloud, and Mesh},
+  author={Wu, Jiang and Chen, Hua},
+  journal={Advanced Intelligent Systems},
+  pages={2400159},
+  year={2024},
+  publisher={Wiley Online Library}
+}
 
