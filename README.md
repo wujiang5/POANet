@@ -1,6 +1,4 @@
-# POANet
-3D Head Pose Estimation and Few-shot Learning for Head Rigid Registration
-
+# 3D Head Pose Estimation via Normal Maps: A Generalized Solution for Depth Image, Point Cloud, and Mesh
 
 The complete project can be downloaded from this URL:
 
